@@ -1,0 +1,74 @@
+
+.App{
+  background-color: #090d1c;
+  height:290px;
+  width:590px;
+  color:white;
+  margin-top:140px;
+margin-left:25%;
+border-radius: 20px;
+
+  
+}
+body{
+  background: linear-gradient(135deg,#17042d,#041b35);
+  height:100vh;
+  color:white;
+}
+h1{
+  text-align:center;
+  padding-top:20px;
+background: linear-gradient(to right, #e816a5, #7864e0, #079123);
+background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+p{
+  text-align:center;
+  font-size:20px;
+}
+.time{
+  font-size:100px;
+  text-align:center;
+justify-content: space-evenly;
+margin-top:100px;
+}
+.separator{
+  text-align: center;
+}
+#hours1{
+  
+  text-align: center;
+
+}
+#minutes1{
+  margin-left:20px;
+
+}
+#seconds1{
+  margin-left:20px;
+}
+#hours{
+  background: linear-gradient(rgb(152, 54, 213));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+#minutes{
+    background: linear-gradient(rgb(85, 36, 245));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#seconds{
+    background: linear-gradient(rgb(103, 234, 234));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}
+.date{
+  margin-top:60px;
+  margin-left: 35%;
+}
+#ampm{
+  margin-left:19%;
+}
